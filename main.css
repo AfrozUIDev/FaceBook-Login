@@ -1,0 +1,50 @@
+<style>
+        body {
+            background-image: url(./Login.webp);
+        }
+        .main_container {
+            border: 2px solid black;
+            border-radius: 20px;
+            box-shadow: 5px 10px 15px black;
+            width: 300px;
+            margin-top: 120px;
+            margin-left: 100px;
+            text-align: center; 
+            padding-top: 15px;
+            background-color: rgb(76, 199, 226);
+            background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/2048px-Facebook_icon.svg.png);
+        } 
+        /* border- border deta hai */
+        /* boreder-radius- border corve karta hai */
+        /* box-show- 5px-Right, 10px-Bottom, 15pxShadow */
+        /* width- Box ka width badega */
+        /* margin- page ko margin deta hai */
+        /* text-align- box ke ander sabiko center me rakkhega */
+        
+        .btn {
+            background-color: blue;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            width: 100px;
+            padding: 5px;
+            font-weight: bold   ;
+        }
+        /* font-weight- world ko bold karega */
+        .anchor {
+            color: red;
+            text-decoration: none;
+        }
+        /* text-decoration- anchor tag ka underline nikalneke liye */
+        input {
+            /* text-align: center; */
+            border-radius: 10px;
+            /* font-size: 20px; */
+            height: 20px;
+        }
+        /* height- Box bada karega */
+        /* font-size- Font ko bada karega */
+        label {
+            font-weight: bold;
+        }
+    </style>
